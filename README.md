@@ -1,2 +1,2 @@
-# Java-Basico
-Praticando com java
+# Java
+Aprendendo Programação em Java - POO e Padrões de Projetos
